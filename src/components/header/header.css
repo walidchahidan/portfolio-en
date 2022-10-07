@@ -1,0 +1,68 @@
+
+.titre{
+   text-align: start;  
+   padding-left: 100px;
+   
+}
+/* .titre>p{
+font-size: 3em;
+} */
+.titre>h1{
+    background-color:transparent ;
+    font-size: 5em;
+    font-family: Poppins;
+    color: white ;
+    
+}
+.head{ 
+    height: 100vh;
+    background: linear-gradient( rgba(41, 27, 73, 0.5),
+    rgba(40, 30, 85, 0.5)),
+    url("../../../public/images/PHOTObackkk.jpg");
+    background-size: cover;
+    padding-top: 240px;
+    text-align: start;
+   
+}
+.btn{
+    align-items: flex-start;
+    position: relative;
+    margin-top: 60px; 
+    border: 3px solid white;
+    border-radius: 30px;
+    color: white;
+    background-color: transparent;
+    margin-left: 100px;
+    padding: 10px 30px;
+    
+}
+#downloadbtn{
+    /* transform: translateX(-40px); */
+    margin-left: 20px;
+}
+.btn:hover{
+    background-color: rgb(68, 61, 61);
+    color: white;
+    background-color: rgba(245, 222, 179, 0.616);
+    transition:1s;
+}
+#logo{
+    width: 210px;
+    margin: 0;
+    margin-top: -310px;
+    
+}
+@media  screen and (max-width:900px) {
+    .head{
+        
+       background-position:center ;
+    }
+}
+@media  screen and (max-width:  600px) {
+    .head{
+        
+       background-position:right ;
+    }
+}
+
+

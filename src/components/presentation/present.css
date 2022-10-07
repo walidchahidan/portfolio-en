@@ -1,0 +1,39 @@
+#presentation{
+    position: relative;
+    height: 100vh;
+    background-color: #0A0A25;
+}
+.pres_h{
+   padding-top: 20px;
+    
+    color: wheat;
+    font-family:Poppins;
+    font-size: 4em;
+}
+.div_pres{
+    padding-top: 40px;
+    text-align: center;
+}
+.div_pres>p{
+    color: aliceblue;
+    font-size: 1.8em;
+    padding: 0px 200px;
+    font-family: Poppins;
+}
+.div_pres>hr{
+    border-top: 4px solid gray;
+    margin: 0 600px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+}
+@media  screen and (max-width:900px) {
+    .div_pres>p{
+      padding: 0px 100px;  
+    }
+    #presentation{
+        
+        height: 140vh;
+        
+    }
+}

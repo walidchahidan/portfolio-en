@@ -1,0 +1,11 @@
+#up{
+    position: fixed;
+    border: transparent;
+    border-radius: 50%;
+    bottom: 15px;
+    right: 15px;
+    background-color: rgba(128, 128, 128, 0.288);
+    padding: 20px;
+    color: white;
+    
+}

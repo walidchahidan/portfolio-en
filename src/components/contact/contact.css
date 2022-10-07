@@ -1,0 +1,59 @@
+#contact{
+    position: relative;
+    height: 100vh;
+    background-color: rgb(187, 182, 182);
+}
+#contact h1{
+    font-size: 3em;
+    color: #0A0A25;
+    padding-top: 30px;
+}
+.head_contact{
+    padding-top: 30px;
+    text-align: center;
+   
+}
+.head_contact hr{
+    border-top: 3px solid gray;
+    margin: 0 700px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 10px;
+}
+.inputs{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    gap: 30px;
+    margin: auto;
+}
+.inputs>input{
+    padding-left: 10px;
+    height: 50px;
+    border-radius: 3px;
+    border: 1px solid gray;
+    background-color: rgba(255, 255, 255, 0.507);
+    outline: none;
+}
+.inputs>.textzone{
+    height: 170px;
+    
+}
+#contact button{
+    
+    background-color: #0A0A25;
+    color: white;
+    border-radius: 3px;
+    padding: 5px 0px;
+}
+
+/* #contact button{
+    display: block;
+    margin: auto;
+    background-color: #0A0A25;
+    color: white;
+    border-radius: 3px;
+    padding: 5px 0px;
+    width: 50%;
+    margin-top: 30px;
+} */

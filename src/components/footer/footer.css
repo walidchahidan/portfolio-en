@@ -1,0 +1,18 @@
+.foot{
+    position: relative;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+}
+.icons{
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.icons a{
+    color: white;
+    
+}

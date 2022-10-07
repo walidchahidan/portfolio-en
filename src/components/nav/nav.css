@@ -1,0 +1,57 @@
+
+nav{
+    position: sticky;
+    top: 0;
+    
+    z-index: 100;
+    background-color: gainsboro;
+   
+}
+ul{
+    display: flex;
+    margin-bottom: 0px;
+    justify-content: center;
+    font-family: Poppins;
+    
+}
+ul>li{
+    
+    list-style: none;
+    margin: 20px;
+    
+    transition: width 2s ease-in-out;
+}
+ul>li>a{
+    position: relative;
+    text-decoration: none;
+    color: #0A0A25;
+    font-weight: 800;
+    padding: 15px 5px;
+}
+ul li a::after{
+   content: "";
+   position: absolute;
+   height: 4px;
+   width: 0;
+   left: 0;
+   bottom: -5px;
+   transition: 0.5s;
+}
+a:hover{
+    color: rgb(85, 77, 77);
+}
+a:hover:after {
+    
+    width: 100%;
+    background-color: rgb(43, 38, 40);
+}
+
+@media  screen and (max-width:900px) {
+    ul>li{
+    
+        margin: 5px;
+    }
+}
+@media  screen and (max-width:  600px) {
+    
+}
