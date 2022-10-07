@@ -47,10 +47,11 @@ font-size: 3em;
     transition:1s;
 }
 #logo{
+    
     width: 210px;
     margin: 0;
     margin-top: -310px;
-    
+    filter: invert(6%) sepia(16%) saturate(6559%) hue-rotate(223deg) brightness(88%) contrast(20%);;
 }
 @media  screen and (max-width:900px) {
     .head{
