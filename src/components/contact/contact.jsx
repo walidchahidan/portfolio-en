@@ -10,16 +10,20 @@ export class Contact extends Component{
     render(){
         return(
              <section id="contact">
+                <form >
                 <div className="head_contact">
                     <h1>DÉMARONS UN PROJET ENSEMBLE,N'HÉSITEZ PAS À ME CONTACTER</h1><hr />
                 </div>
-                <div className="inputs" data-aos="fade-up">
+                
+                <div  className="inputs" data-aos="fade-up">
+                    
                     <input placeholder="Name" type="text" />
                     <input placeholder="E-mail" type="text" />
                     <input placeholder="Message" className="textzone" type="text" />
                     
-                    <button type="submit">CONTACTER</button>
+                    <button type="submit" onSubmit={""}>CONTACTER</button>
                 </div>
+                </form>
                 
              </section>
 
