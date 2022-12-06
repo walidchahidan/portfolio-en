@@ -12,7 +12,7 @@ export class Contact extends Component{
              <section id="contact">
                 <form >
                 <div className="head_contact">
-                    <h1>DÉMARONS UN PROJET ENSEMBLE,N'HÉSITEZ PAS À ME CONTACTER</h1><hr />
+                    <h1>LET’S START A PROJECT TOGETHER,FEEL FREE TO CONTACT ME</h1><hr />
                 </div>
                 
                 <div  className="inputs" data-aos="fade-up">
@@ -21,7 +21,7 @@ export class Contact extends Component{
                     <input placeholder="E-mail" type="text" />
                     <input placeholder="Message" className="textzone" type="text" />
                     
-                    <button type="submit" onSubmit={""}>CONTACTER</button>
+                    <button type="submit" onSubmit={""}>SEND</button>
                 </div>
                 </form>
                 

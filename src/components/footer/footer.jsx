@@ -13,7 +13,7 @@ export class Footer extends Component{
                     <a href="#" ><FontAwesomeIcon icon={faTwitter}></FontAwesomeIcon></a>
                    
                 </div>
-                <p>© 2022 Walid Chahidane, Tous droits réservés.</p>
+                <p>© 2022 Walid Chahidane, all rights reserved.</p>
             </section>
         )
     }

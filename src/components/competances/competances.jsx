@@ -25,7 +25,7 @@ export class Competances extends Component{
                 <div className="all">
                     <div className="div_image col-5" data-aos="fade-right"><img src={img} alt="" /></div>
                     <div className="bars_side col-6" data-aos="fade-left">
-                        <div className="head_div"><h1>Competances</h1><hr /></div>
+                        <div className="head_div"><h1>Skills</h1><hr /></div>
                             <div className="bars">
                                 <div className="container cssbar"><div className="icon_name"><FontAwesomeIcon icon={faCss3} style={{color:"white" ,fontSize:"1.8em"}}></FontAwesomeIcon>CSS</div>
                                     <div className="bar ">70%</div>

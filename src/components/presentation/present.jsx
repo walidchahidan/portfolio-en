@@ -15,17 +15,14 @@ export class Presentation extends Component {
           <h1 className="pres_h">PRESENTATION</h1>
           <hr />
           <p data-aos="fade-up">
-            Je suis <b style={{ color: "gray" }}> Walid Chahidane </b>j'ai 22
-            ans,je suis passioné par la programmation et le
-            <b style={{ color: "gray" }}> Developpement Web</b> ,actuellement
-            étudiant à la 3WA Academy maroc.
+            I am  <b style={{ color: "gray" }}> Walid Chahidane </b>I am Walid Chahidane I am 22 years old, I am passionate about programming and 
+            <b style={{ color: "gray" }}> Web Development</b>
+            
           </p>
           <p data-aos="fade-up">
-            Je conçois et réalise des sites web du cahier des charges à la mise
-            en ligne. Je developpe aussi en <b style={{ color: "gray" }}>PHP/LARAVEL</b>, ce qui me permet de développer
-            des sites web complets.
+          I design and create websites from the specifications to the online release. I also develop in <b style={{ color: "gray" }}>PHP/LARAVEL</b>, which allows me to develop complete websites.
           </p>
-          <p data-aos="fade-up">J'ai quelques projets intéressants à voir. <a href="#projects">ici</a></p>
+          <p data-aos="fade-up">I have some interesting projects to see. <a href="#projects">here</a></p>
         </div>
 
       </section>
