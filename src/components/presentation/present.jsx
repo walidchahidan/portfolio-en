@@ -15,7 +15,7 @@ export class Presentation extends Component {
           <h1 className="pres_h">PRESENTATION</h1>
           <hr />
           <p data-aos="fade-up">
-            I am  <b style={{ color: "gray" }}> Walid Chahidane </b>I am Walid Chahidane I am 22 years old, I am passionate about programming and 
+            I am  <b style={{ color: "gray" }}> Walid Chahidane </b>I am 22 years old, I am passionate about programming and 
             <b style={{ color: "gray" }}> Web Development</b>
             
           </p>
