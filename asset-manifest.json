@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-en/static/css/main.f7e433b9.css",
-    "main.js": "/portfolio-en/static/js/main.f3757712.js",
+    "main.css": "/portfolio-en/static/css/main.52a97b96.css",
+    "main.js": "/portfolio-en/static/js/main.07fb6378.js",
     "static/media/quotes.png": "/portfolio-en/static/media/quotes.1ad32d0ebfa2d5d93885.png",
     "static/media/Capture squad.png": "/portfolio-en/static/media/Capture squad.f436c33402746566b304.png",
     "static/media/PHOTObackkk.jpg": "/portfolio-en/static/media/PHOTObackkk.f5b138c952655bab3754.jpg",
@@ -12,15 +12,15 @@
     "static/media/devinette.png": "/portfolio-en/static/media/devinette.eb780c9a88a558dbaf88.png",
     "static/media/calcul.png": "/portfolio-en/static/media/calcul.649c1efd64a5d2fffdb4.png",
     "static/media/Capture fish.png": "/portfolio-en/static/media/Capture fish.70b864c42980e2da071f.png",
-    "static/media/CV de Walid Chahidane.pdf": "/portfolio-en/static/media/CV de Walid Chahidane.6f5b608fa5aebbe5a53b.pdf",
+    "static/media/resume walid.pdf": "/portfolio-en/static/media/resume walid.c31fd775913dbef68be4.pdf",
     "static/media/ver.jpg": "/portfolio-en/static/media/ver.45589213c84abc56b341.jpg",
     "static/media/logoportfolio.png": "/portfolio-en/static/media/logoportfolio.bfc65d1ec5f174328b25.png",
     "index.html": "/portfolio-en/index.html",
-    "main.f7e433b9.css.map": "/portfolio-en/static/css/main.f7e433b9.css.map",
-    "main.f3757712.js.map": "/portfolio-en/static/js/main.f3757712.js.map"
+    "main.52a97b96.css.map": "/portfolio-en/static/css/main.52a97b96.css.map",
+    "main.07fb6378.js.map": "/portfolio-en/static/js/main.07fb6378.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7e433b9.css",
-    "static/js/main.f3757712.js"
+    "static/css/main.52a97b96.css",
+    "static/js/main.07fb6378.js"
   ]
 }
