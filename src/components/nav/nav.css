@@ -43,7 +43,7 @@ a:hover{
 a:hover:after {
     
     width: 100%;
-    background-color: rgb(43, 38, 40);
+    background-color: #0A0A25;
 }
 
 @media  screen and (max-width:900px) {

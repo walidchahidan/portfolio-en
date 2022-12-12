@@ -16,9 +16,7 @@ font-size: 3em;
 }
 .head{ 
     height: 100vh;
-    background: linear-gradient( rgba(41, 27, 73, 0.5),
-    rgba(40, 30, 85, 0.5)),
-    url("../../../public/images/PHOTObackkk.jpg");
+    background-image:url("../../../public/images/PHOTObackkk.jpg");
     background-size: cover;
     padding-top: 240px;
     text-align: start;
@@ -39,10 +37,11 @@ font-size: 3em;
 #downloadbtn{
     /* transform: translateX(-40px); */
     margin-left: 20px;
+    
 }
 .btn:hover{
     background-color: rgb(68, 61, 61);
-    color: white;
+    color: #06a77d;
     background-color: rgba(245, 222, 179, 0.616);
     transition:1s;
 }
@@ -52,7 +51,7 @@ font-size: 3em;
     margin: 0;
     position: absolute;
     top: 0;
-    filter: invert(6%) sepia(70%) saturate(6559%) hue-rotate(223deg) brightness(88%) contrast(20%);;
+    filter: brightness(0) saturate(100%) invert(44%) sepia(69%) saturate(1052%) hue-rotate(128deg) brightness(90%) contrast(95%);
 }
 @media  screen and (max-width:900px) {
     .head{

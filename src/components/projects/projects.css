@@ -43,7 +43,7 @@
     width: 13%;
 }
 #more:hover{
-  background-color: gray;
+  background-color: #06a77d;
 }
 @media  screen and (max-width:985px) {
     #projects{

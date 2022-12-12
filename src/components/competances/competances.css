@@ -1,7 +1,7 @@
 #competances{
     position: relative;
     height: 120vh;
-    background-color: #0A0A25;
+    background-color: #06a77d;
 }
 .all{
     display: flex;
@@ -24,7 +24,7 @@
     padding-top: 10px;
 }
 .bars_side h1{
-    color: wheat;
+    color: #0A0A25;
     font-family: Poppins;
     font-size: 4em;
     padding-top: 30px;
@@ -53,7 +53,8 @@
     display: flex;
     flex-direction: column;
     gap: 40px;
-    margin-left: 20px;
+    margin-left: 30px;
+    
     width: 100%;
     align-items: flex-start;
 }
@@ -64,22 +65,22 @@
     width: 75%;
 }
 .bootstrapbar{
-    width: 55%;
+    width: 70%;
 }
 .jsbar{
-    width: 50%;
+    width: 70%;
 }
 .reactbar{
-    width: 55%;
+    width: 75%;
 }
 .phpbar{
-    width: 60%;
+    width: 75%;
 }
 .laravelbar{
-    width: 65%;
+    width: 70%;
 }
 .mysqlbar{
-    width: 70%;
+    width: 77%;
 }
 
 @media  screen and (max-width:985px) {

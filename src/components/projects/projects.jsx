@@ -28,7 +28,7 @@ export class Projects extends Component{
                   <Card lien="https://walidchahidan.github.io/fish-and-chips/" image={fish} text="Fish and ships"/>
                   <Card lien="https://walidchahidan.github.io/Squad/" image={squad} text="Squad Free"/>
                   <Card lien="https://walidchahidan.github.io/hackathon/" image={appvilla} text="Appvilla"/>
-                  <Card lien="https://walidchahidan.github.io/cv_walid/" image={cv} text="Mon CV"/>
+                  <Card lien="https://walidchahidan.github.io/cv_walid/" image={cv} text="Mon CV" />
                   <Card lien="https://walidchahidan.github.io/Somme/" image={sommeup} text="Jeu Somme"/>
                   <Card lien="https://walidchahidan.github.io/quotes/" image={quotes} text="Quotes generator"/>
                   <Card lien="https://walidchahidan.github.io/devinette/" image={devinette} text="Devinette jeu"/>

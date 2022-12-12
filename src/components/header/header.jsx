@@ -1,7 +1,7 @@
 import { Component } from "react";
 import ParticlesBackground from "../ParticlesBackground";
 import "./header.css";
-import cvpdf from "./CV de Walid Chahidane.pdf";
+import cvpdf from "./resume walid.pdf";
 import { TypeAnimation } from "react-type-animation";
 import logo from "../../images/logoportfolio.png";
 
@@ -33,7 +33,7 @@ export class Header extends Component{
             wrapper="b"
             cursor={true}
             repeat={Infinity}
-            style={{ fontSize: "3em",color:"wheat"}}
+            style={{ fontSize: "3em",color:"#06a77d"}}
           />
           
             </div>
